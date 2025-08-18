@@ -1,5 +1,4 @@
-# 🚗 Vehicle Classification using MLOps | End-to-End Project Deployment with AWS, MongoDB, and CI/CD 🚀
-
+# MLOps Project - Vehicle Insurance Data Pipeline
 Welcome to an enterprise-grade **MLOps Project Pipeline** that demonstrates how to take a machine learning model from **development to production** with proper structuring, modularization, and deployment.
 
 This project highlights best practices including:
